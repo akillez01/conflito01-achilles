@@ -1,1 +1,1 @@
-"Mudança na branch feature/hello" 
+Mudança combinada: Mudança na branch feature/hello e Mudança na branch goodbye
